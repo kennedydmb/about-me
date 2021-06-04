@@ -3,7 +3,7 @@ import React from "react";
 export default function Skills() {
   return (
     <div className="mb-2">
-      <div className="font-weight-bold border-bottom border-light ">Skills</div>
+      <div className="font-weight-bold border-bottom border-light ">Tech Skills</div>
       <ul style={{ listStyleType: "none" }}>
         <li>React</li>
         <li>Node</li>
@@ -19,8 +19,11 @@ export default function Skills() {
         <li>Django</li>
         <li>AWS</li>
         <li>Sentry</li>
-        
         <li>Paint.NET</li>
+        <li>Project Management</li>
+        <li>Database Management</li>
+        <li>Proxy Management (NGINX)</li>
+        <li>Server Hosting</li>
 
       </ul>
     </div>
