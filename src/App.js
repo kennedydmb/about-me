@@ -1,7 +1,7 @@
 import './App.css';
-import Sidebar from "./Components/Sidebar"
-import Main from "./Components/Main"
-import Wrapper from "./Components/Wrapper"
+import Sidebar from "./Components/Sidebar.jsx"
+import Main from "./Components/Main.jsx"
+import Wrapper from "./Components/Wrapper.jsx"
 
 function App() {
   return (

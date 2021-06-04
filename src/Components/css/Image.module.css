@@ -1,0 +1,9 @@
+.Image{
+    background-image: url("../../images/me.jpg");
+    height: 150px;
+    width: 150px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 150px;
+}
