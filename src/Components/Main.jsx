@@ -15,23 +15,18 @@ export default function Main() {
         <Image />
         <Details />
       </Row>
-      <hr />
       <Row>
         <Summary />
       </Row>
-      <hr />
       <Row>
         <Experience />
       </Row>
-      <hr />
       <Row>
         <Education />
       </Row>
-      <hr />
       <Row>
         <Site />
       </Row>
-      <hr />
       <Row>
         <Interactive />
       </Row>

@@ -1,9 +1,12 @@
 .Image{
     background-image: url("../../images/me.jpg");
     height: 150px;
-    width: 150px;
+    width:150px;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    border-radius: 150px;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
 }
