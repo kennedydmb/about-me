@@ -10,7 +10,7 @@ import Interactive from "./Interactive.jsx";
 
 export default function Main() {
   return (
-    <div className="col-12 order-1 col-lg-9 order-lg-2 border">
+    <div className="col-12 order-1 col-lg-10 order-lg-2 border">
       <Row>
         <Image />
         <Details />

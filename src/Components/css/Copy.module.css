@@ -1,0 +1,16 @@
+.toolTip {
+  visibility: hidden;
+  background-color: #3853a7;
+  position: relative;
+  border-radius: 5px;
+  color: white;
+  font-size: 12px;
+}
+
+.copy {
+  cursor: pointer;
+}
+
+.copy:hover .toolTip {
+  visibility: visible;
+}
